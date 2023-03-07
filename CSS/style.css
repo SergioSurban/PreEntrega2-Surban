@@ -9,7 +9,20 @@
     background-color: violet;
 }
 body{
-    background-image: url(../img/HISTORIA-Familia-Herramientas-e1590763413543.webp);
     background-color: aquamarine;
     background-repeat: no-repeat;
+}
+.container-mio{
+    border: 2px solid blue;
+}
+.fd{
+    background-color: darkturquoise;
+    color: black;
+    font-family: roboto;
+}
+.fd1{
+    background-color: darkturquoise;
+    color: black;
+    font-family: roboto;
+    font-weight: bold;
 }
